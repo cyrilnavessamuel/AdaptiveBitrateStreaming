@@ -1,2 +1,2 @@
 # AdaptiveBitrateStreaming
-AdaptiveBitRateStreamingbased on Dash Player, immplementation of Buffer Based Algorithms
+AdaptiveBitRateStreamingbased on Dash Player, implementation of Buffer Based Algorithms
